@@ -107,8 +107,10 @@ AGDA/
 ## 👥 Credits
 
 AGDA is developed and maintained by the team at **Mtaa Wetu**, with ❤️ for the open data and community mapping movement.
-
-- **Lead Developer**: John Ngugi  
+- **Lead Designer**: James Gachanja
+- **Lead Developer**: John Ngugi
+- **Lead Data Analyst**: Ivy Muriuki
+- **Marketer**: Dr. -Ingj Nashon Adero
 - **Contact**: [admin@mtaawetu.com](mailto:admin@mtaawetu.com)
 
 ---
