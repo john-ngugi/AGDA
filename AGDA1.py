@@ -738,7 +738,7 @@ def main():
         )
         
         if query:
-            with st.spinner("Analyzing..."):
+            with st.spinner("Analyzing...dont panic if it takes a minute"):
                 result_type, result_data = query_gis_data(query, st.session_state.gdf)
                 
                 # Display results based on type
